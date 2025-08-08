@@ -1,3 +1,3 @@
 # Simple Server Reselling Planner (C++)
 
-![Screenshot of the result of running main.cpp](https://i.ibb.co/TMpmCyt7/image.png)
+![Screenshot of the result of running main.cpp](https://iili.io/Fsk6OYv.png)
